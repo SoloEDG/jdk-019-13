@@ -172,6 +172,7 @@ main {
   align-items: center;
   justify-content: center;
   padding: 30px;
+  position: relative;
   background-image: radial-gradient(#d9d0e2 0.7px, transparent 0.7px);
   background-size: 12px 12px;
 }
